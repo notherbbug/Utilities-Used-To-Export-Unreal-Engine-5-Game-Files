@@ -29,10 +29,10 @@ A resource detailing the utilities &amp; steps to export Unreal Engine 5 game fi
 - Copy the revealed __AES KEY__ as you will need to access the content in [FModel](https://fmodel.app)
 
 # Step 3 (Dumping the .usmap from the game with UE4SS)
-- Follow the installation instruction to install [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) to your game folder.
+- Follow the installation instructions to install [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) to your game folder.
 
-  __Note:__ For specific games ex. *The Blood of the Dawnwalker* follow the [relevant install instructions](https://www.nexusmods.com/thebloodofdawnwalker/mods/55) provided with specific configuration
-- Navigate to the *game folder* where [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) is installed (same as *your game.exe*) and be sure to configure the keybind to dump the *.usmap* file once in the game main menu. You can set the keybind in the *UE4SS-settings.ini* file instructions are included within.
+  __Note:__ For specific games ex. *The Blood of the Dawnwalker* follow the [relevant install instructions](https://www.nexusmods.com/thebloodofdawnwalker/mods/55) provided with it's specific configuration.
+- Navigate to the *game folder* where [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) is installed (same as *your game.exe*) and be sure to configure the keybind to dump the *.usmap* file once in the game main menu. You can set the keybind in the *UE4SS-settings.ini* file, instructions are included within.
 
 - Launch your game and when you get to the Main Menu activate the keybind you set to dump the *.usmap* file directly to the *game folder* .
 
@@ -45,7 +45,7 @@ A resource detailing the utilities &amp; steps to export Unreal Engine 5 game fi
 
   <img width="175" height="138" alt="image" src="https://github.com/user-attachments/assets/7e6e9d4c-8ba2-465d-af29-c58acc46871a" />
 
-- Set the *.usmap* file in [FModel](https://fmodel.app) under *Settings* .
+- Set the *.usmap* file you dumped to the *game folder* in __Step 3__ in [FModel](https://fmodel.app) under *Settings* .
 
   __Note:__ If you are exporting audio files you may also want to check the Convert Audio During Export (.wav) to *Enabled*
 
