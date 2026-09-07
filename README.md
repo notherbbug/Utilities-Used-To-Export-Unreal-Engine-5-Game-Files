@@ -26,7 +26,7 @@ A resource detailing the utilities &amp; steps to export Unreal Engine 5 game fi
 # Step 2 (Finding the AES Key)
 - Either use [AESDumpster](https://github.com/GHFear/AESDumpster) or simply open the [AES Dumpster – Unreal Engine AES Key Scanner Online Tool](https://illusory.dev/aesdumpster/)
 - Drag the *DRM-LESS* game *.exe* you created in __Step 1__ into the online tool.
-- Copy the revealed __AES KEY__ as you will need to access the content in [FModel](https://fmodel.app)
+- Copy the revealed __AES KEY__ as you will need it to access the content in [FModel](https://fmodel.app)
 
 # Step 3 (Dumping the .usmap from the game with UE4SS)
 - Follow the installation instructions to install [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) to your game folder.
