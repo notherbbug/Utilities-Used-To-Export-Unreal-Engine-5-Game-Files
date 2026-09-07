@@ -1,13 +1,13 @@
-# Utilities-Used-To-Access-Purchased-Unreal-Engine-5-Game-Files-
-A resource detailing the utilities &amp; steps to access purchased Unreal Engine 5 game content
+# Utilities-Used-To-Export-Unreal-Engine-5-Game-Files
+A resource detailing the utilities &amp; steps to export Unreal Engine 5 game files.
 
 # Before We Start
-- This is a personal guide detailing steps to access legally obtained content & simply explains which community tools were used & the steps implemented to access said content.
+- This was made in the thought of extracting files for modding purposes ONLY.
 - I am NOT responsible for how you use the information catalogued within this guide.
 
 # Software Requirements
 - [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.1.0.0) - For Removing the SteamStub/Steam DRM Restrictions on the *Shipping.exe* .
-- [FModel](https://fmodel.app) - You can use this too mod and view Assets your Games. You can find the *.pak* *.ucas* & *.utoc* files in the game folder usually within the *Content Folder*
+- [FModel](https://fmodel.app) - You can use this too mod and view Assets your Games. You can find the *.pak* *.ucas* & *.utoc* files in the game folder usually within the *Content Folder* .
 - [AESDumpster](https://github.com/GHFear/AESDumpster) - For Finding AES Keys in the DRM-less *Shipping.exe* . (Just use the online tool for simplicity)
 - [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) - For dumping *.usmap* from the game to rectify *"Package has unversioned properties but mapping file is missing, can't serialize"* in FModel. (Note: some games will need to be configured specifically to run this tool and obtain a usable *.usmap* dump. For example *The Blood of The Dawnwalker* won't generate the dump unless you use this specific version of [UE4SS](https://www.nexusmods.com/thebloodofdawnwalker/mods/55)
 
