@@ -7,7 +7,7 @@ A resource detailing the utilities &amp; steps to export Unreal Engine 5 game fi
 
 # Software Requirements
 - [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.1.0.0) - For Removing the SteamStub/Steam DRM Restrictions on the *Shipping.exe* .
-- [FModel](https://fmodel.app) - You can use this too mod and view Assets your Games. You can find the *.pak* *.ucas* & *.utoc* files in the game folder usually within the *Content Folder* .
+- [FModel](https://fmodel.app) - You can use this to mod and view Assets your Games. You can find the *.pak* *.ucas* & *.utoc* files in the game folder usually within the *Content Folder* .
 - [AESDumpster](https://github.com/GHFear/AESDumpster) - For Finding AES Keys in the DRM-less *Shipping.exe* . (Just use the online tool for simplicity)
 - [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) - For dumping *.usmap* from the game to rectify *"Package has unversioned properties but mapping file is missing, can't serialize"* in FModel. (Note: some games will need to be configured specifically to run this tool and obtain a usable *.usmap* dump. For example *The Blood of The Dawnwalker* won't generate the dump unless you use this specific version of [UE4SS](https://www.nexusmods.com/thebloodofdawnwalker/mods/55)
 
