@@ -1,5 +1,5 @@
 # Utilities-Used-To-Export-Unreal-Engine-5-Game-Files
-A resource detailing the utilities &amp; steps to export Unreal Engine 5 game files.
+A resource detailing the utilities &amp; steps to export Unreal Engine 5 game files
 
 # Before We Start
 - This was made in the thought of extracting files for modding purposes ONLY.
